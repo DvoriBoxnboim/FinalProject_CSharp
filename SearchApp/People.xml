@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<company>
+	<person name="dvori" age = "20" school ="halichot" grade ="14"/>
+	<person name="shira" age = "20" school ="meir"/>
+	<person name="elisheva" age = "22"/>
+	<student name="lea" age="25" school="yashan"></student>
+	<car CarNumber="12345678" Company="toyota" ></car>
+	<car CarNumber="88888888" Company="tesla" ></car>
+	<car CarNumber="85207410" Company="honda" ></car>
+	<car CarNumber="96308520" Company="kia" ></car>
+</company>
